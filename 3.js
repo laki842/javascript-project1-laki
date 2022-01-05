@@ -61,8 +61,8 @@ window.addEventListener('DOMContentLoaded', function () {
 
 // btns
 
-const prevBtn = document.querySelector('.uil-previous');
-const nextBtn = document.querySelector('.uil-step-forward');
+const prevBtn = document.querySelector('.fa-arrow-left');
+const nextBtn = document.querySelector('.fa-arrow-right');
 
 // show other languages
 
