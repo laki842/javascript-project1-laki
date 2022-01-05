@@ -395,6 +395,11 @@
   color: rgb(135, 177, 163);
 }
 
+.fa-arrow-left,
+.fa-arrow-right {
+  padding: 5px;
+}
+
 @media screen and (max-width: 1280px) {
   .blog-text blockquote {
     font-size: 1.7rem;
